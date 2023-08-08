@@ -3,8 +3,9 @@ hello 001110100101
 =======
 hello ians in github
 
-<<<<<<< HEAD
+
 heavely official's
-=======
 blessings
->>>>>>> cbb9ae553359890a4ba358db6886aef023dada61
+
+tgcf
+
